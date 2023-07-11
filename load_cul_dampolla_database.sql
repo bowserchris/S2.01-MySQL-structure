@@ -1,1 +1,0 @@
-USE cul_dampolla;
